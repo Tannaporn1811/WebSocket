@@ -1,0 +1,5 @@
+﻿20230707_082203
+{"TransCode":"26","Data":[{"FieldType":"65","Value":"000091"}]}
+
+20230707_082310
+{"TransCode":"26","Data":[{"FieldType":"65","Value":"000091"}]}

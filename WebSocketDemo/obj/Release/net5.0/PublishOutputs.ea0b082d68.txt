@@ -1,0 +1,7 @@
+D:\Winsocket\Demo\WebSocketDemo\WebSocketDemo\obj\Release\net5.0\PubTmp\Out\WebSocketDemo.exe
+D:\Winsocket\Demo\WebSocketDemo\WebSocketDemo\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Winsocket\Demo\WebSocketDemo\WebSocketDemo\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Winsocket\Demo\WebSocketDemo\WebSocketDemo\obj\Release\net5.0\PubTmp\Out\WebSocketDemo.dll
+D:\Winsocket\Demo\WebSocketDemo\WebSocketDemo\obj\Release\net5.0\PubTmp\Out\WebSocketDemo.deps.json
+D:\Winsocket\Demo\WebSocketDemo\WebSocketDemo\obj\Release\net5.0\PubTmp\Out\WebSocketDemo.runtimeconfig.json
+D:\Winsocket\Demo\WebSocketDemo\WebSocketDemo\obj\Release\net5.0\PubTmp\Out\WebSocketDemo.pdb
